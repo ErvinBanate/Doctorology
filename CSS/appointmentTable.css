@@ -1,0 +1,8 @@
+.appointment {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 12px;
+}
+.appointment > td {
+    padding: 5px;
+}

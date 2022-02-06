@@ -1,0 +1,12 @@
+.name, .age {
+    display: block;
+    float: left;
+}
+.name > h4, .name > input {
+    margin: 5px;
+    width: 30%;
+}
+.age > input, .age > h4 {
+    margin: 5px;
+    width: 25%;
+}
